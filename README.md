@@ -1,7 +1,7 @@
 
 # GrandStringSlayer
 
-GrandStringSlayer is a decryption tool written in python for string decryption of GrandString Trojan Banker.
+GrandStringSlayer is a decryption tool written in python for string decryption of Grandoreiro Trojan Banker.
 
 
 ## Usage
