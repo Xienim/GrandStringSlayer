@@ -17,4 +17,4 @@ After that you can run the script and check the output with the decrypted string
 python3 GrandStringSlayer.py
 ```
 &nbsp;
-![App Screenshot](https://github.com/Xienim/GrandStringSlayer/blob/main/decryptor.png)
+![App Screenshot](https://github.com/Xienim/GrandStringSlayer/blob/main/decryptor1.png)
