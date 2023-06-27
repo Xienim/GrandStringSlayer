@@ -1,3 +1,8 @@
+'''
+Script made by researcher -> Xienim. If you are going to copy at least leave my message here :/
+'''
+
+
 def char_to_hex(chars):
     hex_chars = ""
     for char in chars:
