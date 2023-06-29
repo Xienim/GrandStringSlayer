@@ -1,5 +1,6 @@
 '''
 Script made by researcher -> Xienim. If you are going to copy at least leave my message here :/
+TW: https://twitter.com/Hachiman_Xienim
 '''
 
 
